@@ -1,0 +1,46 @@
+[
+        {
+            "templateName": "temp1",
+            "templatePath": "",
+            "availableColorSchemeUrls": [
+                {"schemeName":"",
+                "schemeUrl":"",
+                "SchemeDisplayColor":""
+                },
+                {"schemeName":"",
+                "schemeUrl":"",
+                "SchemeDisplayColor":""
+                }
+            ],
+              "availableFontSchemeUrls": [
+                {"schemeName":"",
+                "schemeUrl":""
+                },
+                {"schemeName":"",
+                "schemeUrl":""
+                }
+            ]
+        },
+         {
+            "templateName": "temp2",
+            "templatePath": "",
+            "availableColorSchemeUrls": [
+                {"schemeName":"",
+                "schemeUrl":"",
+                "SchemeDisplayColor":""
+                },
+                {"schemeName":"",
+                "schemeUrl":"",
+                "SchemeDisplayColor":""
+                }
+            ],
+              "availableFontSchemeUrls": [
+                {"schemeName":"",
+                "schemeUrl":""
+                },
+                {"schemeName":"",
+                "schemeUrl":""
+                }
+            ]
+        }
+    ]
