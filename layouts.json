@@ -1,46 +1,126 @@
 [
-        {
-            "templateName": "temp1",
-            "templatePath": "",
-            "availableColorSchemeUrls": [
-                {"schemeName":"",
-                "schemeUrl":"",
-                "SchemeDisplayColor":""
-                },
-                {"schemeName":"",
-                "schemeUrl":"",
-                "SchemeDisplayColor":""
-                }
-            ],
-              "availableFontSchemeUrls": [
-                {"schemeName":"",
-                "schemeUrl":""
-                },
-                {"schemeName":"",
-                "schemeUrl":""
-                }
-            ]
+    {
+        "templateName": "temp1",
+        "layout": "summer",
+        "availableColorSchemeUrls": [
+            {"schemeName":"yellow",
+            "schemeUrl":"color path 1",
+            "SchemeDisplayColor":"yellow"
+            },
+            {"schemeName":"green",
+            "schemeUrl":"color path 2",
+            "SchemeDisplayColor":"green"
+            }
+        ],
+          "availableFontSchemeUrls": [
+            {"schemeName":"",
+            "schemeUrl":""
+            },
+            {"schemeName":"",
+            "schemeUrl":""
+            }
+        ]
+    },
+     {
+        "templateName": "temp2",
+        "layout": "winter",
+        "availableColorSchemeUrls": [
+            {"schemeName":"blue",
+            "schemeUrl":"color path 1",
+            "SchemeDisplayColor":"blue"
+            },
+            {"schemeName":"red",
+            "schemeUrl":"color path 2",
+            "SchemeDisplayColor":"red"
+            },
+            {"schemeName":"orange",
+            "schemeUrl":"color path 3",
+            "SchemeDisplayColor":"orange"
+            },
+            {"schemeName":"pink",
+            "schemeUrl":"color path 4",
+            "SchemeDisplayColor":"pink"
+            },
+            {"schemeName":"black",
+            "schemeUrl":"color path 5",
+            "SchemeDisplayColor":"black"
+            }
+        ],
+          "availableFontSchemeUrls": [
+            {"schemeName":"",
+            "schemeUrl":"color path 3"
+            },
+            {"schemeName":"",
+            "schemeUrl":""
+            }
+        ]
+    },
+    {
+      "templateName": "temp3",
+      "layout": "spring",
+      "availableColorSchemeUrls": [
+          {"schemeName":"blue",
+          "schemeUrl":"color path 3",
+          "SchemeDisplayColor":"blue"
+          },
+          {"schemeName":"red",
+          "schemeUrl":"color path 2",
+          "SchemeDisplayColor":"red"
+          },
+          {"schemeName":"orange",
+          "schemeUrl":"color path 3",
+          "SchemeDisplayColor":"orange"
+          },
+          {"schemeName":"pink",
+          "schemeUrl":"color path 4",
+          "SchemeDisplayColor":"pink"
+          },
+          {"schemeName":"black",
+          "schemeUrl":"color path 5",
+          "SchemeDisplayColor":"black"
+          }
+      ],
+        "availableFontSchemeUrls": [
+          {"schemeName":"",
+          "schemeUrl":"color path 3"
+          },
+          {"schemeName":"",
+          "schemeUrl":""
+          }
+      ]
+  },
+  {
+    "templateName": "temp4",
+    "layout": "autumn",
+    "availableColorSchemeUrls": [
+        {"schemeName":"blue",
+        "schemeUrl":"color path 1",
+        "SchemeDisplayColor":"blue"
         },
-         {
-            "templateName": "temp2",
-            "templatePath": "",
-            "availableColorSchemeUrls": [
-                {"schemeName":"",
-                "schemeUrl":"",
-                "SchemeDisplayColor":""
-                },
-                {"schemeName":"",
-                "schemeUrl":"",
-                "SchemeDisplayColor":""
-                }
-            ],
-              "availableFontSchemeUrls": [
-                {"schemeName":"",
-                "schemeUrl":""
-                },
-                {"schemeName":"",
-                "schemeUrl":""
-                }
-            ]
+        {"schemeName":"red",
+        "schemeUrl":"color path 2",
+        "SchemeDisplayColor":"red"
+        },
+        {"schemeName":"orange",
+        "schemeUrl":"color path 3",
+        "SchemeDisplayColor":"orange"
+        },
+        {"schemeName":"pink",
+        "schemeUrl":"color path 4",
+        "SchemeDisplayColor":"pink"
+        },
+        {"schemeName":"black",
+        "schemeUrl":"color path 5",
+        "SchemeDisplayColor":"black"
+        }
+    ],
+      "availableFontSchemeUrls": [
+        {"schemeName":"",
+        "schemeUrl":"color path 3"
+        },
+        {"schemeName":"",
+        "schemeUrl":""
         }
     ]
+}
+]
