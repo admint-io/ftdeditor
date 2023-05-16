@@ -4,11 +4,11 @@
         "layout": "summer",
         "availableColorSchemeUrls": [
             {"schemeName":"yellow",
-            "schemeUrl":"color path 1",
+            "schemeUrl":"colorScheme1.json",
             "SchemeDisplayColor":"yellow"
             },
             {"schemeName":"green",
-            "schemeUrl":"color path 2",
+            "schemeUrl":"colorScheme2.json",
             "SchemeDisplayColor":"green"
             }
         ],
@@ -25,25 +25,13 @@
         "templateName": "temp2",
         "layout": "winter",
         "availableColorSchemeUrls": [
-            {"schemeName":"blue",
-            "schemeUrl":"color path 1",
-            "SchemeDisplayColor":"blue"
+           {"schemeName":"yellow",
+            "schemeUrl":"colorScheme1.json",
+            "SchemeDisplayColor":"yellow"
             },
-            {"schemeName":"red",
-            "schemeUrl":"color path 2",
-            "SchemeDisplayColor":"red"
-            },
-            {"schemeName":"orange",
-            "schemeUrl":"color path 3",
-            "SchemeDisplayColor":"orange"
-            },
-            {"schemeName":"pink",
-            "schemeUrl":"color path 4",
-            "SchemeDisplayColor":"pink"
-            },
-            {"schemeName":"black",
-            "schemeUrl":"color path 5",
-            "SchemeDisplayColor":"black"
+            {"schemeName":"green",
+            "schemeUrl":"colorScheme2.json",
+            "SchemeDisplayColor":"green"
             }
         ],
           "availableFontSchemeUrls": [
@@ -59,26 +47,14 @@
       "templateName": "temp3",
       "layout": "holy-angel",
       "availableColorSchemeUrls": [
-          {"schemeName":"blue",
-          "schemeUrl":"color path 3",
-          "SchemeDisplayColor":"blue"
-          },
-          {"schemeName":"red",
-          "schemeUrl":"color path 2",
-          "SchemeDisplayColor":"red"
-          },
-          {"schemeName":"orange",
-          "schemeUrl":"color path 3",
-          "SchemeDisplayColor":"orange"
-          },
-          {"schemeName":"pink",
-          "schemeUrl":"color path 4",
-          "SchemeDisplayColor":"pink"
-          },
-          {"schemeName":"black",
-          "schemeUrl":"color path 5",
-          "SchemeDisplayColor":"black"
-          }
+         {"schemeName":"yellow",
+            "schemeUrl":"colorScheme1.json",
+            "SchemeDisplayColor":"yellow"
+            },
+            {"schemeName":"green",
+            "schemeUrl":"colorScheme2.json",
+            "SchemeDisplayColor":"green"
+            }
       ],
         "availableFontSchemeUrls": [
           {"schemeName":"",
@@ -93,26 +69,14 @@
     "templateName": "temp4",
     "layout": "autumn",
     "availableColorSchemeUrls": [
-        {"schemeName":"blue",
-        "schemeUrl":"color path 1",
-        "SchemeDisplayColor":"blue"
-        },
-        {"schemeName":"red",
-        "schemeUrl":"color path 2",
-        "SchemeDisplayColor":"red"
-        },
-        {"schemeName":"orange",
-        "schemeUrl":"color path 3",
-        "SchemeDisplayColor":"orange"
-        },
-        {"schemeName":"pink",
-        "schemeUrl":"color path 4",
-        "SchemeDisplayColor":"pink"
-        },
-        {"schemeName":"black",
-        "schemeUrl":"color path 5",
-        "SchemeDisplayColor":"black"
-        }
+       {"schemeName":"yellow",
+            "schemeUrl":"colorScheme1.json",
+            "SchemeDisplayColor":"yellow"
+            },
+            {"schemeName":"green",
+            "schemeUrl":"colorScheme2.json",
+            "SchemeDisplayColor":"green"
+            }
     ],
       "availableFontSchemeUrls": [
         {"schemeName":"",
