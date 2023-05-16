@@ -276,7 +276,7 @@
               "type": "color"
             },
             "text": {
-              "value": "#556f68",
+              "value": "green",
               "type": "color"
             },
             "text-strong": {
@@ -590,7 +590,7 @@
               "type": "color"
             },
             "text": {
-              "value": "#9ea89e",
+              "value": "red",
               "type": "color"
             },
             "text-strong": {
