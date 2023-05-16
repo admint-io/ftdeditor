@@ -1,7 +1,7 @@
 [
     {
         "templateName": "temp1",
-        "layout": "summer",
+        "layout": "",
         "availableColorSchemeUrls": [
             {"schemeName":"yellow",
             "schemeUrl":"colorScheme1.json",
