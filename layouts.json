@@ -4,11 +4,11 @@
         "layout": "summer",
         "availableColorSchemeUrls": [
             {"schemeName":"yellow",
-            "schemeUrl":"colorScheme1.json",
+            "schemeUrl":"colorScheme1",
             "SchemeDisplayColor":"yellow"
             },
             {"schemeName":"green",
-            "schemeUrl":"colorScheme2.json",
+            "schemeUrl":"colorScheme2",
             "SchemeDisplayColor":"green"
             }
         ],
@@ -26,11 +26,11 @@
         "layout": "winter",
         "availableColorSchemeUrls": [
            {"schemeName":"yellow",
-            "schemeUrl":"colorScheme1.json",
+            "schemeUrl":"colorScheme1",
             "SchemeDisplayColor":"yellow"
             },
             {"schemeName":"green",
-            "schemeUrl":"colorScheme2.json",
+            "schemeUrl":"colorScheme2",
             "SchemeDisplayColor":"green"
             }
         ],
@@ -47,13 +47,17 @@
       "templateName": "holy-angel",
       "layout": "holy-angel",
       "availableColorSchemeUrls": [
-         {"schemeName":"yellow",
-            "schemeUrl":"colorScheme1.json",
+         {"schemeName":"default",
+            "schemeUrl":"colorScheme1",
+            "SchemeDisplayColor":"grey"
+            },
+            {"schemeName":"yellow",
+            "schemeUrl":"colorScheme2",
             "SchemeDisplayColor":"yellow"
             },
-            {"schemeName":"green",
-            "schemeUrl":"colorScheme2.json",
-            "SchemeDisplayColor":"green"
+            {"schemeName":"red",
+            "schemeUrl":"colorScheme3",
+            "SchemeDisplayColor":"red"
             }
       ],
         "availableFontSchemeUrls": [
@@ -70,11 +74,11 @@
     "layout": "autumn",
     "availableColorSchemeUrls": [
        {"schemeName":"yellow",
-            "schemeUrl":"colorScheme1.json",
+            "schemeUrl":"colorScheme1",
             "SchemeDisplayColor":"yellow"
             },
             {"schemeName":"green",
-            "schemeUrl":"colorScheme2.json",
+            "schemeUrl":"colorScheme2",
             "SchemeDisplayColor":"green"
             }
     ],
