@@ -18,13 +18,6 @@ dark: rgba(0, 0, 0, 0.8)
 light: #eff1f5
 dark: #2B303B
 
--- ftd.background-colors background-:
-base: $base-
-step-1: $step-1-
-step-2: $step-2-
-overlay: $overlay-
-code: $code-
-
 -- ftd.color border-:
 light: #b2b3bb
 dark: #b2b3bb
@@ -77,15 +70,6 @@ dark: #362FD9
 light: #feffff
 dark: #feffff
 
--- ftd.cta-colors cta-primary-:
-base: $cta-primary-base-
-hover: $cta-primary-hover-
-pressed: $cta-primary-pressed-
-disabled: $cta-primary-disabled-
-focused: $cta-primary-focused-
-border: $cta-primary-border-
-text: $cta-primary-text-
-
 -- ftd.color cta-secondary-base-:
 light: #4fb2df
 dark: #4fb2df
@@ -114,14 +98,6 @@ dark: #362FD9
 light: #362FD9
 dark: #ffffff
 
--- ftd.cta-colors cta-secondary-:
-base: $cta-secondary-base-
-hover: $cta-secondary-hover-
-pressed: $cta-secondary-pressed-
-disabled: $cta-secondary-disabled-
-focused: $cta-secondary-focused-
-border: $cta-secondary-border-
-text: $cta-secondary-text-
 
 -- ftd.color cta-tertiary-base-:
 light: #909192
@@ -151,15 +127,6 @@ dark: #e2e4e7
 light: #362FD9
 dark: #ffffff
 
--- ftd.cta-colors cta-tertiary-:
-base: $cta-tertiary-base-
-hover: $cta-tertiary-hover-
-pressed: $cta-tertiary-pressed-
-disabled: $cta-tertiary-disabled-
-focused: $cta-tertiary-focused-
-border: $cta-tertiary-border-
-text: $cta-tertiary-text-
-
 -- ftd.color cta-danger-base-:
 light: #1C1B1F
 dark: #1C1B1F
@@ -188,14 +155,6 @@ dark: #1C1B1F
 light: #1C1B1F
 dark: #1C1B1F
 
--- ftd.cta-colors cta-danger-:
-base: $cta-danger-base-
-hover: $cta-danger-hover-
-pressed: $cta-danger-pressed-
-disabled: $cta-danger-disabled-
-focused: $cta-danger-focused-
-border: $cta-danger-border-
-text: $cta-danger-text-
 
 -- ftd.color accent-primary-:
 light: #D12EEF
@@ -210,11 +169,6 @@ dark: #6F59E9
 light: #c5cbd7
 dark: #c5cbd7
 
--- ftd.pst accent-:
-primary: $accent-primary-
-secondary: $accent-secondary-
-tertiary: $accent-tertiary-
-
 -- ftd.color error-base-:
 light: #f5bdbb
 dark: #f5bdbb
@@ -226,11 +180,6 @@ dark: #c62a21
 -- ftd.color error-border-:
 light: #df2b2b
 dark: #df2b2b
-
--- ftd.btb error-btb-:
-base: $error-base-
-text: $error-text-
-border: $error-border-
 
 -- ftd.color success-base-:
 light: #e3f0c4
@@ -244,11 +193,6 @@ dark: #467b28
 light: #3d741f
 dark: #3d741f
 
--- ftd.btb success-btb-:
-base: $success-base-
-text: $success-text-
-border: $success-border-
-
 -- ftd.color info-base-:
 light: #c4edfd
 dark: #c4edfd
@@ -261,11 +205,6 @@ dark: #205694
 light: #205694
 dark: #205694
 
--- ftd.btb info-btb-:
-base: $info-base-
-text: $info-text-
-border: $info-border-
-
 -- ftd.color warning-base-:
 light: #fbefba
 dark: #fbefba
@@ -277,11 +216,6 @@ dark: #966220
 -- ftd.color warning-border-:
 light: #966220
 dark: #966220
-
--- ftd.btb warning-btb-:
-base: $warning-base-
-text: $warning-text-
-border: $warning-border-
 
 -- ftd.color custom-one-:
 light: #CD4A88
@@ -322,15 +256,3 @@ dark: #4ECC39
 -- ftd.color custom-ten-:
 light: #da7a4a
 dark: #da7a4a
-
--- ftd.custom-colors custom-:
-one: $custom-one-
-two: $custom-two-
-three: $custom-three-
-four: $custom-four-
-five: $custom-five-
-six: $custom-six-
-seven: $custom-seven-
-eight: $custom-eight-
-nine: $custom-nine-
-ten: $custom-ten-
