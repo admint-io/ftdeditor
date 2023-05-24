@@ -1,7 +1,7 @@
 [
     {
-        "templateName": "temp1",
-        "layout": "",
+        "templateName": "holy-angel",
+        "layout": "holy-angel",
         "availableColorSchemeUrls": [
             {"schemeName":"yellow",
             "schemeUrl":"colorScheme1.json",
@@ -22,8 +22,8 @@
         ]
     },
      {
-        "templateName": "temp2",
-        "layout": "winter",
+        "templateName": "summer",
+        "layout": "summer",
         "availableColorSchemeUrls": [
            {"schemeName":"yellow",
             "schemeUrl":"colorScheme1.json",
@@ -44,8 +44,8 @@
         ]
     },
     {
-      "templateName": "temp3",
-      "layout": "holy-angel",
+      "templateName": "winter",
+      "layout": "winter",
       "availableColorSchemeUrls": [
          {"schemeName":"yellow",
             "schemeUrl":"colorScheme1.json",
@@ -66,7 +66,7 @@
       ]
   },
   {
-    "templateName": "temp4",
+    "templateName": "autumn",
     "layout": "autumn",
     "availableColorSchemeUrls": [
        {"schemeName":"yellow",
