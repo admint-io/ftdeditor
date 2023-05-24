@@ -157,8 +157,8 @@ dark: #1C1B1F
 
 
 -- ftd.color accent-primary-:
-light: #D12EEF
-dark: #D12EEF
+light: red
+dark: red
 
 
 -- ftd.color accent-secondary-:
