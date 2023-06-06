@@ -1,7 +1,7 @@
 [
     {
-        "templateName": "summer",
-        "layout": "summer",
+        "templateName": "blockmedia-hack",
+        "layout": "blockmedia-hack",
         "availableColorSchemeUrls": [
             {"schemeName":"yellow",
             "schemeUrl":"colorScheme1",
