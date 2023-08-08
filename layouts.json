@@ -18,14 +18,18 @@
         }
     ],
     "availableColorSchemeUrls": [
-        {"schemeName":"yellow",
-        "schemeUrl":"colorScheme1",
-        "SchemeDisplayColor":"yellow"
-        },
-        {"schemeName":"green",
-        "schemeUrl":"colorScheme2",
-        "SchemeDisplayColor":"green"
-        }
+        {"schemeName":"default",
+            "schemeUrl":"colorScheme1",
+            "SchemeDisplayColor":"grey"
+            },
+            {"schemeName":"yellow",
+            "schemeUrl":"colorScheme2",
+            "SchemeDisplayColor":"yellow"
+            },
+            {"schemeName":"red",
+            "schemeUrl":"colorScheme3",
+            "SchemeDisplayColor":"red"
+            }
      ],
     "availableFontSchemeUrls": [
          {"schemeName":"",
