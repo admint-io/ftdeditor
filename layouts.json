@@ -32,11 +32,20 @@
             }
      ],
     "availableFontSchemeUrls": [
-         {"schemeName":"",
-         "schemeUrl":"color path 3"
+         {"schemeName":"font1",
+         "schemeUrl":"font1-url"
          },
-         {"schemeName":"",
-         "schemeUrl":""
+         {"schemeName":"font2",
+         "schemeUrl":"font2-url"
+         },
+         {"schemeName":"font3",
+         "schemeUrl":"font3-url"
+         },
+         {"schemeName":"font4",
+         "schemeUrl":"font4-url"
+         },
+         {"schemeName":"font5",
+         "schemeUrl":"font5-url"
          }
      ]  
 }
