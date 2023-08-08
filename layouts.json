@@ -47,5 +47,55 @@
          {"schemeName":"font5",
          "schemeUrl":"font5-url"
          }
-     ]  
+     ],
+     "featuredLayouts": [
+        {
+        "name":"featured layout 1",
+        "layout":"holy-angel",
+        "colorSchemeUrl": "colorScheme1",
+        "fontSchemeUrl": "font1-url"
+        },
+        {
+        "name":"featured layout 2",
+        "layout":"holy-angel",
+        "colorSchemeUrl": "colorScheme2",
+        "fontSchemeUrl": "font2-url"
+        },
+        {
+        "name":"featured layout 3",
+        "layout":"holy-angel",
+        "colorSchemeUrl": "colorScheme3",
+        "fontSchemeUrl": "font3-url"
+        },
+        {
+        "name":"featured layout 4",
+        "layout":"holy-angel",
+        "colorSchemeUrl": "colorScheme4",
+        "fontSchemeUrl": "font1-url"
+        },
+        {
+        "name":"featured layout 5",
+        "layout":"blockmedia-hack",
+        "colorSchemeUrl": "colorScheme1",
+        "fontSchemeUrl": "font1-url"
+        },
+        {
+        "name":"featured layout 6",
+        "layout":"blockmedia-hack",
+        "colorSchemeUrl": "colorScheme2",
+        "fontSchemeUrl": "font2-url"
+        },
+        {
+        "name":"featured layout 7",
+        "layout":"blockmedia-hack",
+        "colorSchemeUrl": "colorScheme3",
+        "fontSchemeUrl": "font3-url"
+        },
+        {
+        "name":"featured layout 8",
+        "layout":"blockmedia-hack",
+        "colorSchemeUrl": "colorScheme4",
+        "fontSchemeUrl": "font1-url"
+        }
+    ]    
 }
