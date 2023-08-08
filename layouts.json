@@ -1,94 +1,38 @@
-[
-    {
-        "templateName": "blockmedia-hack",
-        "layout": "blockmedia-hack",
-        "availableColorSchemeUrls": [
-            {"schemeName":"yellow",
-            "schemeUrl":"colorScheme1",
-            "SchemeDisplayColor":"yellow"
-            },
-            {"schemeName":"green",
-            "schemeUrl":"colorScheme2",
-            "SchemeDisplayColor":"green"
-            }
-        ],
-          "availableFontSchemeUrls": [
-            {"schemeName":"",
-            "schemeUrl":""
-            },
-            {"schemeName":"",
-            "schemeUrl":""
-            }
-        ]
-    },
-     {
-        "templateName": "winter",
-        "layout": "winter",
-        "availableColorSchemeUrls": [
-           {"schemeName":"yellow",
-            "schemeUrl":"colorScheme1",
-            "SchemeDisplayColor":"yellow"
-            },
-            {"schemeName":"green",
-            "schemeUrl":"colorScheme2",
-            "SchemeDisplayColor":"green"
-            }
-        ],
-          "availableFontSchemeUrls": [
-            {"schemeName":"",
-            "schemeUrl":"color path 3"
-            },
-            {"schemeName":"",
-            "schemeUrl":""
-            }
-        ]
-    },
-    {
-      "templateName": "holy-angel",
-      "layout": "holy-angel",
-      "availableColorSchemeUrls": [
-         {"schemeName":"default",
-            "schemeUrl":"colorScheme1",
-            "SchemeDisplayColor":"grey"
-            },
-            {"schemeName":"yellow",
-            "schemeUrl":"colorScheme2",
-            "SchemeDisplayColor":"yellow"
-            },
-            {"schemeName":"red",
-            "schemeUrl":"colorScheme3",
-            "SchemeDisplayColor":"red"
-            }
-      ],
-        "availableFontSchemeUrls": [
-          {"schemeName":"",
-          "schemeUrl":"color path 3"
-          },
-          {"schemeName":"",
-          "schemeUrl":""
-          }
-      ]
-  },
-  {
-    "templateName": "autumn",
-    "layout": "autumn",
-    "availableColorSchemeUrls": [
-       {"schemeName":"yellow",
-            "schemeUrl":"colorScheme1",
-            "SchemeDisplayColor":"yellow"
-            },
-            {"schemeName":"green",
-            "schemeUrl":"colorScheme2",
-            "SchemeDisplayColor":"green"
-            }
-    ],
-      "availableFontSchemeUrls": [
-        {"schemeName":"",
-        "schemeUrl":"color path 3"
+{
+    "availableTemplates": [
+        {
+            "templateName": "autumn",
+            "layout": "autumn"            
         },
-        {"schemeName":"",
-        "schemeUrl":""
+        {
+            "templateName": "blockmedia-hack",
+            "layout": "blockmedia-hack"         
+        },
+        {
+            "templateName": "winter",
+            "layout": "winter"           
+        },
+        {
+            "templateName": "holy-angel",
+            "layout": "holy-angel"       
         }
-    ]
+    ],
+    "availableColorSchemeUrls": [
+        {"schemeName":"yellow",
+        "schemeUrl":"colorScheme1",
+        "SchemeDisplayColor":"yellow"
+        },
+        {"schemeName":"green",
+        "schemeUrl":"colorScheme2",
+        "SchemeDisplayColor":"green"
+        }
+     ],
+    "availableFontSchemeUrls": [
+         {"schemeName":"",
+         "schemeUrl":"color path 3"
+         },
+         {"schemeName":"",
+         "schemeUrl":""
+         }
+     ]  
 }
-]
