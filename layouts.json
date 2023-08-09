@@ -18,18 +18,6 @@
         }
     ],
     "availableColorSchemeUrls": [
-        {"schemeName":"default",
-            "schemeUrl":"colorScheme1",
-            "SchemeDisplayColor":"grey"
-            },
-            {"schemeName":"yellow",
-            "schemeUrl":"colorScheme2",
-            "SchemeDisplayColor":"yellow"
-            },
-            {"schemeName":"red",
-            "schemeUrl":"colorScheme3",
-            "SchemeDisplayColor":"red"
-            },
             {"schemeName":"Forest CS",
             "schemeUrl":"Forest CS",
             "SchemeDisplayColor":"red"
@@ -96,7 +84,7 @@
         {
         "name":"featured layout 5",
         "layout":"blockmedia-hack",
-        "colorSchemeUrl": "colorScheme1",
+        "colorSchemeUrl": "Dark Flame CS",
         "fontSchemeUrl": "font1-url"
         },
         {
@@ -114,7 +102,7 @@
         {
         "name":"featured layout 8",
         "layout":"blockmedia-hack",
-        "colorSchemeUrl": "colorScheme4",
+        "colorSchemeUrl": "Dark Flame CS",
         "fontSchemeUrl": "font1-url"
         }
     ]    
