@@ -33,6 +33,22 @@
             {"schemeName":"Forest CS",
             "schemeUrl":"Forest CS",
             "SchemeDisplayColor":"red"
+            },
+            {"schemeName":"Blog Template 1 CS",
+            "schemeUrl":"Blog Template 1 CS",
+            "SchemeDisplayColor":"red"
+            },
+            {"schemeName":"Dark Flame CS",
+            "schemeUrl":"Dark Flame CS",
+            "SchemeDisplayColor":"red"
+            },
+            {"schemeName":"Pink Tree CS",
+            "schemeUrl":"Pink Tree CS",
+            "SchemeDisplayColor":"red"
+            },
+            {"schemeName":"Winter CS",
+            "schemeUrl":"Winter CS",
+            "SchemeDisplayColor":"red"
             }
      ],
     "availableFontSchemeUrls": [
@@ -56,7 +72,7 @@
         {
         "name":"featured layout 1",
         "layout":"holy-angel",
-        "colorSchemeUrl": "colorScheme1",
+        "colorSchemeUrl": "Pink Tree CS",
         "fontSchemeUrl": "font1-url"
         },
         {
@@ -68,13 +84,13 @@
         {
         "name":"featured layout 3",
         "layout":"holy-angel",
-        "colorSchemeUrl": "colorScheme3",
+        "colorSchemeUrl": "Dark Flame CS",
         "fontSchemeUrl": "font3-url"
         },
         {
         "name":"featured layout 4",
         "layout":"holy-angel",
-        "colorSchemeUrl": "colorScheme4",
+        "colorSchemeUrl": "Blog Template 1 CS",
         "fontSchemeUrl": "font1-url"
         },
         {
@@ -86,13 +102,13 @@
         {
         "name":"featured layout 6",
         "layout":"blockmedia-hack",
-        "colorSchemeUrl": "colorScheme2",
+        "colorSchemeUrl": "Blog Template 1 CS",
         "fontSchemeUrl": "font2-url"
         },
         {
         "name":"featured layout 7",
         "layout":"blockmedia-hack",
-        "colorSchemeUrl": "colorScheme3",
+        "colorSchemeUrl": "Dark Flame CS",
         "fontSchemeUrl": "font3-url"
         },
         {
