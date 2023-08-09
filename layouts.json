@@ -29,6 +29,10 @@
             {"schemeName":"red",
             "schemeUrl":"colorScheme3",
             "SchemeDisplayColor":"red"
+            },
+            {"schemeName":"Forest CS",
+            "schemeUrl":"Forest CS",
+            "SchemeDisplayColor":"red"
             }
      ],
     "availableFontSchemeUrls": [
@@ -58,7 +62,7 @@
         {
         "name":"featured layout 2",
         "layout":"holy-angel",
-        "colorSchemeUrl": "colorScheme2",
+        "colorSchemeUrl": "Forest CS",
         "fontSchemeUrl": "font2-url"
         },
         {
