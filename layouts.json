@@ -1,106 +1,108 @@
 {
-    "availableTemplates": [
-        {
-            "templateName": "autumn",
-            "layout": "autumn"            
-        },
-        {
-            "templateName": "blockmedia-hack",
-            "layout": "blockmedia-hack"         
-        },
-        {
-            "templateName": "winter",
-            "layout": "winter"           
-        },
-        {
-            "templateName": "holy-angel",
-            "layout": "holy-angel"       
-        }
-    ],
-    "availableColorSchemeUrls": [
-            {"schemeName":"Forest CS",
-            "schemeUrl":"Forest CS",
-            "SchemeDisplayColor":"red"
-            },
-            {"schemeName":"Blog Template 1 CS",
-            "schemeUrl":"Blog Template 1 CS",
-            "SchemeDisplayColor":"red"
-            },
-            {"schemeName":"Dark Flame CS",
-            "schemeUrl":"Dark Flame CS",
-            "SchemeDisplayColor":"red"
-            },
-            {"schemeName":"Pink Tree CS",
-            "schemeUrl":"Pink Tree CS",
-            "SchemeDisplayColor":"red"
-            },
-            {"schemeName":"Winter CS",
-            "schemeUrl":"Winter CS",
-            "SchemeDisplayColor":"red"
-            }
-     ],
-    "availableFontSchemeUrls": [
-         {"schemeName":"Lobster Typography",
-         "schemeUrl":"Lobster Typography",
-         "schemeFamily":"fastn-community-github-io-lobster-font-Lobster"
-         },
-          {"schemeName":"Arya Typography",
-         "schemeUrl":"Arya Typography",
-         "schemeFamily":"fastn-community-github-io-arya-font-Arya"
-         },
-         {"schemeName":"Blaka Typography",
-         "schemeUrl":"Blaka Typography",
-         "schemeFamily":"fastn-community-github-io-blaka-font-Blaka"
-         }
-     ],
-     "featuredLayouts": [
-        {
-        "name":"featured layout 1",
-        "layout":"holy-angel",
-        "colorSchemeUrl": "Pink Tree CS",
-        "fontSchemeUrl": "font1-url"
-        },
-        {
-        "name":"featured layout 2",
-        "layout":"holy-angel",
-        "colorSchemeUrl": "Forest CS",
-        "fontSchemeUrl": "font2-url"
-        },
-        {
-        "name":"featured layout 3",
-        "layout":"holy-angel",
-        "colorSchemeUrl": "Dark Flame CS",
-        "fontSchemeUrl": "font3-url"
-        },
-        {
-        "name":"featured layout 4",
-        "layout":"holy-angel",
-        "colorSchemeUrl": "Blog Template 1 CS",
-        "fontSchemeUrl": "font1-url"
-        },
-        {
-        "name":"featured layout 5",
-        "layout":"blockmedia-hack",
-        "colorSchemeUrl": "Dark Flame CS",
-        "fontSchemeUrl": "font1-url"
-        },
-        {
-        "name":"featured layout 6",
-        "layout":"blockmedia-hack",
-        "colorSchemeUrl": "Blog Template 1 CS",
-        "fontSchemeUrl": "font2-url"
-        },
-        {
-        "name":"featured layout 7",
-        "layout":"blockmedia-hack",
-        "colorSchemeUrl": "Dark Flame CS",
-        "fontSchemeUrl": "font3-url"
-        },
-        {
-        "name":"featured layout 8",
-        "layout":"blockmedia-hack",
-        "colorSchemeUrl": "Dark Flame CS",
-        "fontSchemeUrl": "font1-url"
-        }
-    ]    
+	"availableTemplates": [{
+			"templateName": "autumn",
+			"layout": "autumn"
+		},
+		{
+			"templateName": "blockmedia-hack",
+			"layout": "blockmedia-hack"
+		},
+		{
+			"templateName": "winter",
+			"layout": "winter"
+		},
+		{
+			"templateName": "holy-angel",
+			"layout": "holy-angel"
+		}
+	],
+	"availableColorSchemeUrls": [{
+			"schemeName": "Forest CS",
+			"schemeUrl": "Forest CS",
+			"SchemeDisplayColor": "red"
+		},
+		{
+			"schemeName": "Blog Template 1 CS",
+			"schemeUrl": "Blog Template 1 CS",
+			"SchemeDisplayColor": "red"
+		},
+		{
+			"schemeName": "Dark Flame CS",
+			"schemeUrl": "Dark Flame CS",
+			"SchemeDisplayColor": "red"
+		},
+		{
+			"schemeName": "Pink Tree CS",
+			"schemeUrl": "Pink Tree CS",
+			"SchemeDisplayColor": "red"
+		},
+		{
+			"schemeName": "Winter CS",
+			"schemeUrl": "Winter CS",
+			"SchemeDisplayColor": "red"
+		}
+	],
+	"availableFontSchemeUrls": [{
+			"schemeName": "Lobster Typography",
+			"schemeUrl": "Lobster Typography",
+			"schemeFamily": "fastn-community-github-io-lobster-font-Lobster"
+		},
+		{
+			"schemeName": "Arya Typography",
+			"schemeUrl": "Arya Typography",
+			"schemeFamily": "fastn-community-github-io-arya-font-Arya"
+		},
+		{
+			"schemeName": "Blaka Typography",
+			"schemeUrl": "Blaka Typography",
+			"schemeFamily": "fastn-community-github-io-blaka-font-Blaka"
+		}
+	],
+	"featuredLayouts": [{
+			"name": "featured layout 1",
+			"layout": "holy-angel",
+			"colorScheme": {
+				"schemeUrl": "Pink Tree CS"
+			},
+			"fontScheme": {
+				"schemeUrl": "Blaka Typography",
+				"schemeFamily": "fastn-community-github-io-blaka-font-Blaka"
+			}
+		},
+		{
+			"name": "featured layout 2",
+			"layout": "holy-angel",
+			"colorScheme": {
+				"schemeUrl": "Forest CS"
+			},
+			"fontScheme": {
+				"schemeUrl": "Arya Typography",
+				"schemeFamily": "fastn-community-github-io-arya-font-Arya"
+			}
+		},
+		{
+			"name": "featured layout 3",
+			"layout": "holy-angel",
+			"colorScheme": {
+				"schemeUrl": "Dark Flame CS"
+			},
+			"fontScheme": {
+				"schemeUrl": "Lobster Typography",
+				"schemeFamily": "fastn-community-github-io-lobster-font-Lobster"
+			}
+		},
+		{
+			"name": "featured layout 4",
+			"layout": "holy-angel",
+
+			"colorScheme": {
+				"schemeUrl": "Blog Template 1 CS"
+			},
+			"fontScheme": {
+				"schemeUrl": "Lobster Typography",
+				"schemeFamily": "fastn-community-github-io-arya-font-Arya"
+			}
+		}
+
+	]
 }
