@@ -40,20 +40,17 @@
             }
      ],
     "availableFontSchemeUrls": [
-         {"schemeName":"font1",
-         "schemeUrl":"font1-url"
+         {"schemeName":"Lobster Typography",
+         "schemeUrl":"Lobster Typography",
+         "schemeFamily":"fastn-community-github-io-lobster-font-Lobster"
          },
-         {"schemeName":"font2",
-         "schemeUrl":"font2-url"
+          {"schemeName":"Arya Typography",
+         "schemeUrl":"Arya Typography",
+         "schemeFamily":"fastn-community-github-io-arya-font-Arya"
          },
-         {"schemeName":"font3",
-         "schemeUrl":"font3-url"
-         },
-         {"schemeName":"font4",
-         "schemeUrl":"font4-url"
-         },
-         {"schemeName":"font5",
-         "schemeUrl":"font5-url"
+         {"schemeName":"Blaka Typography",
+         "schemeUrl":"Blaka Typography",
+         "schemeFamily":"fastn-community-github-io-blaka-font-Blaka"
          }
      ],
      "featuredLayouts": [
