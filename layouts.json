@@ -56,6 +56,51 @@
 			"schemeName": "Blaka Typography",
 			"schemeUrl": "Blaka Typography",
 			"schemeFamily": "fastn-community-github-io-blaka-font-Blaka"
+		},
+		{
+			"schemeName": "Inter Typography",
+			"schemeUrl": "Inter Typography",
+			"schemeFamily": "fastn-community-github-io-inter-font-Inter"
+		},
+		{
+			"schemeName": "Karma Typography",
+			"schemeUrl": "Karma Typography",
+			"schemeFamily": "fastn-community-github-io-karma-font-Karma"
+		},
+		{
+			"schemeName": "Khand Typography",
+			"schemeUrl": "Khand Typography",
+			"schemeFamily": "fastn-community-github-io-khand-font-Khand"
+		},
+		{
+			"schemeName": "Lato Typography",
+			"schemeUrl": "Lato Typography",
+			"schemeFamily": "fastn-community-github-io-lato-font-Lato"
+		},
+		{
+			"schemeName": "Opensans Typography",
+			"schemeUrl": "Opensans Typography",
+			"schemeFamily": "fastn-community-github-io-opensans-font-Opensans"
+		},
+		{
+			"schemeName": "Pragati Narrow Typography",
+			"schemeUrl": "Pragati Narrow Typography",
+			"schemeFamily": "fastn-community-github-io-pragati-narrow-font-Pragati-Narrow"
+		},
+		{
+			"schemeName": "Roboto Mono Typography",
+			"schemeUrl": "Roboto Mono Typography",
+			"schemeFamily": "fastn-community-github-io-roboto-mono-font-Roboto-Mono"
+		},
+		{
+			"schemeName": "Roboto Typography",
+			"schemeUrl": "Roboto Typography",
+			"schemeFamily": "fastn-community-github-io-roboto-font-Roboto"
+		},
+		{
+			"schemeName": "Tiro Typography",
+			"schemeUrl": "Tiro Typography",
+			"schemeFamily": "fastn-community-github-io-tiro-font-Tiro"
 		}
 	],
 	"featuredLayouts": [{
@@ -101,6 +146,42 @@
 			"fontScheme": {
 				"schemeUrl": "Lobster Typography",
 				"schemeFamily": "fastn-community-github-io-arya-font-Arya"
+			}
+		},
+		{
+			"name": "featured layout 5",
+			"layout": "holy-angel",
+
+			"colorScheme": {
+				"schemeUrl": "Blog Template 1 CS"
+			},
+			"fontScheme": {
+				"schemeUrl": "Tiro Typography",
+				"schemeFamily": "fastn-community-github-io-tiro-font-Tiro"
+			}
+		},
+		{
+			"name": "featured layout 6",
+			"layout": "holy-angel",
+
+			"colorScheme": {
+				"schemeUrl": "Winter CS"
+			},
+			"fontScheme": {
+				"schemeUrl": "Khand Typography",
+				"schemeFamily": "fastn-community-github-io-khand-font-Khand"
+			}
+		},
+		{
+			"name": "featured layout 7",
+			"layout": "holy-angel",
+
+			"colorScheme": {
+				"schemeUrl": "Forest CS"
+			},
+			"fontScheme": {
+				"schemeUrl": "Opensans Typography",
+				"schemeFamily": "fastn-community-github-io-opensans-font-Opensans"
 			}
 		}
 
