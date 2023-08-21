@@ -1,1 +1,189 @@
+{
+	"availableTemplates": [{
+			"templateName": "autumn",
+			"layout": "autumn"
+		},
+		{
+			"templateName": "blockmedia-hack",
+			"layout": "blockmedia-hack"
+		},
+		{
+			"templateName": "winter",
+			"layout": "winter"
+		},
+		{
+			"templateName": "holy-angel",
+			"layout": "holy-angel"
+		}
+	],
+	"availableColorSchemeUrls": [{
+			"schemeName": "Forest CS",
+			"schemeUrl": "Forest CS",
+			"SchemeDisplayColor": "red"
+		},
+		{
+			"schemeName": "Blog Template 1 CS",
+			"schemeUrl": "Blog Template 1 CS",
+			"SchemeDisplayColor": "red"
+		},
+		{
+			"schemeName": "Dark Flame CS",
+			"schemeUrl": "Dark Flame CS",
+			"SchemeDisplayColor": "red"
+		},
+		{
+			"schemeName": "Pink Tree CS",
+			"schemeUrl": "Pink Tree CS",
+			"SchemeDisplayColor": "red"
+		},
+		{
+			"schemeName": "Winter CS",
+			"schemeUrl": "Winter CS",
+			"SchemeDisplayColor": "red"
+		}
+	],
+	"availableFontSchemeUrls": [{
+			"schemeName": "Lobster Typography",
+			"schemeUrl": "Lobster Typography",
+			"schemeFamily": "fastn-community-github-io-lobster-font-Lobster"
+		},
+		{
+			"schemeName": "Arya Typography",
+			"schemeUrl": "Arya Typography",
+			"schemeFamily": "fastn-community-github-io-arya-font-Arya"
+		},
+		{
+			"schemeName": "Blaka Typography",
+			"schemeUrl": "Blaka Typography",
+			"schemeFamily": "fastn-community-github-io-blaka-font-Blaka"
+		},
+		{
+			"schemeName": "Inter Typography",
+			"schemeUrl": "Inter Typography",
+			"schemeFamily": "fastn-community-github-io-inter-font-Inter"
+		},
+		{
+			"schemeName": "Karma Typography",
+			"schemeUrl": "Karma Typography",
+			"schemeFamily": "fastn-community-github-io-karma-font-Karma"
+		},
+		{
+			"schemeName": "Khand Typography",
+			"schemeUrl": "Khand Typography",
+			"schemeFamily": "fastn-community-github-io-khand-font-Khand"
+		},
+		{
+			"schemeName": "Lato Typography",
+			"schemeUrl": "Lato Typography",
+			"schemeFamily": "fastn-community-github-io-lato-font-Lato"
+		},
+		{
+			"schemeName": "Opensans Typography",
+			"schemeUrl": "Opensans Typography",
+			"schemeFamily": "fastn-community-github-io-opensans-font-Opensans"
+		},
+		{
+			"schemeName": "Pragati Narrow Typography",
+			"schemeUrl": "Pragati Narrow Typography",
+			"schemeFamily": "fastn-community-github-io-pragati-narrow-font-Pragati-Narrow"
+		},
+		{
+			"schemeName": "Roboto Mono Typography",
+			"schemeUrl": "Roboto Mono Typography",
+			"schemeFamily": "fastn-community-github-io-roboto-mono-font-Roboto-Mono"
+		},
+		{
+			"schemeName": "Roboto Typography",
+			"schemeUrl": "Roboto Typography",
+			"schemeFamily": "fastn-community-github-io-roboto-font-Roboto"
+		},
+		{
+			"schemeName": "Tiro Typography",
+			"schemeUrl": "Tiro Typography",
+			"schemeFamily": "fastn-community-github-io-tiro-font-Tiro"
+		}
+	],
+	"featuredLayouts": [{
+			"name": "featured layout 1",
+			"layout": "holy-angel",
+			"colorScheme": {
+				"schemeUrl": "Pink Tree CS"
+			},
+			"fontScheme": {
+				"schemeUrl": "Blaka Typography",
+				"schemeFamily": "fastn-community-github-io-blaka-font-Blaka"
+			}
+		},
+		{
+			"name": "featured layout 2",
+			"layout": "holy-angel",
+			"colorScheme": {
+				"schemeUrl": "Forest CS"
+			},
+			"fontScheme": {
+				"schemeUrl": "Arya Typography",
+				"schemeFamily": "fastn-community-github-io-arya-font-Arya"
+			}
+		},
+		{
+			"name": "featured layout 3",
+			"layout": "holy-angel",
+			"colorScheme": {
+				"schemeUrl": "Dark Flame CS"
+			},
+			"fontScheme": {
+				"schemeUrl": "Lobster Typography",
+				"schemeFamily": "fastn-community-github-io-lobster-font-Lobster"
+			}
+		},
+		{
+			"name": "featured layout 4",
+			"layout": "holy-angel",
 
+			"colorScheme": {
+				"schemeUrl": "Blog Template 1 CS"
+			},
+			"fontScheme": {
+				"schemeUrl": "Lobster Typography",
+				"schemeFamily": "fastn-community-github-io-arya-font-Arya"
+			}
+		},
+		{
+			"name": "featured layout 5",
+			"layout": "holy-angel",
+
+			"colorScheme": {
+				"schemeUrl": "Blog Template 1 CS"
+			},
+			"fontScheme": {
+				"schemeUrl": "Tiro Typography",
+				"schemeFamily": "fastn-community-github-io-tiro-font-Tiro"
+			}
+		},
+		{
+			"name": "featured layout 6",
+			"layout": "holy-angel",
+
+			"colorScheme": {
+				"schemeUrl": "Winter CS"
+			},
+			"fontScheme": {
+				"schemeUrl": "Khand Typography",
+				"schemeFamily": "fastn-community-github-io-khand-font-Khand"
+			}
+		},
+		{
+			"name": "featured layout 7",
+			"layout": "holy-angel",
+
+			"colorScheme": {
+				"schemeUrl": "Forest CS"
+			},
+			"fontScheme": {
+				"schemeUrl": "Opensans Typography",
+				"schemeFamily": "fastn-community-github-io-opensans-font-Opensans"
+			}
+		}
+
+	]
+}
