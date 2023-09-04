@@ -1,7 +1,7 @@
 {
 	"availableTemplates": [{
-			"templateName": "autumn",
-			"layout": "autumn"
+			"templateName": "live-stream",
+			"layout": "live-stream"
 		},
 		{
 			"templateName": "blockmedia-hack",
@@ -105,7 +105,7 @@
 	],
 	"featuredLayouts": [{
 			"name": "featured layout 1",
-			"layout": "holy-angel",
+			"layout": "live-stream",
 			"colorScheme": {
 				"schemeUrl": "Pink Tree CS"
 			},
@@ -116,7 +116,7 @@
 		},
 		{
 			"name": "featured layout 2",
-			"layout": "holy-angel",
+			"layout": "live-stream",
 			"colorScheme": {
 				"schemeUrl": "Forest CS"
 			},
@@ -127,7 +127,7 @@
 		},
 		{
 			"name": "featured layout 3",
-			"layout": "holy-angel",
+			"layout": "live-stream",
 			"colorScheme": {
 				"schemeUrl": "Dark Flame CS"
 			},
