@@ -1,15 +1,15 @@
 {
 	"availableTemplates": [{
 			"templateName": "template-1",
-			"layout": "autumn"
+			"layout": "template-1"
 		},
 		{
 			"templateName": "template-2",
-			"layout": "blockmedia-hack"
+			"layout": "template-2"
 		},
 		{
 			"templateName": "template-3",
-			"layout": "winter"
+			"layout": "template-3"
 		}
 	],
 	"availableColorSchemeUrls": [{
