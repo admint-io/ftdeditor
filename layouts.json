@@ -1,19 +1,15 @@
 {
 	"availableTemplates": [{
-			"templateName": "autumn",
+			"templateName": "template-1",
 			"layout": "autumn"
 		},
 		{
-			"templateName": "blockmedia-hack",
+			"templateName": "template-2",
 			"layout": "blockmedia-hack"
 		},
 		{
-			"templateName": "winter",
+			"templateName": "template-3",
 			"layout": "winter"
-		},
-		{
-			"templateName": "holy-angel",
-			"layout": "holy-angel"
 		}
 	],
 	"availableColorSchemeUrls": [{
@@ -105,7 +101,7 @@
 	],
 	"featuredLayouts": [{
 			"name": "featured layout 1",
-			"layout": "holy-angel",
+			"layout": "template-1",
 			"colorScheme": {
 				"schemeUrl": "Pink Tree CS"
 			},
@@ -116,7 +112,7 @@
 		},
 		{
 			"name": "featured layout 2",
-			"layout": "holy-angel",
+			"layout": "template-2",
 			"colorScheme": {
 				"schemeUrl": "Forest CS"
 			},
@@ -127,7 +123,7 @@
 		},
 		{
 			"name": "featured layout 3",
-			"layout": "holy-angel",
+			"layout": "template-3",
 			"colorScheme": {
 				"schemeUrl": "Dark Flame CS"
 			},
@@ -138,7 +134,7 @@
 		},
 		{
 			"name": "featured layout 4",
-			"layout": "holy-angel",
+			"layout": "template-1",
 
 			"colorScheme": {
 				"schemeUrl": "Blog Template 1 CS"
@@ -150,7 +146,7 @@
 		},
 		{
 			"name": "featured layout 5",
-			"layout": "holy-angel",
+			"layout": "template-2",
 
 			"colorScheme": {
 				"schemeUrl": "Blog Template 1 CS"
@@ -162,7 +158,7 @@
 		},
 		{
 			"name": "featured layout 6",
-			"layout": "holy-angel",
+			"layout": "template-3",
 
 			"colorScheme": {
 				"schemeUrl": "Winter CS"
@@ -174,7 +170,7 @@
 		},
 		{
 			"name": "featured layout 7",
-			"layout": "holy-angel",
+			"layout": "template-1",
 
 			"colorScheme": {
 				"schemeUrl": "Forest CS"
