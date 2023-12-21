@@ -36,6 +36,11 @@
 			"schemeName": "Winter CS",
 			"schemeUrl": "Winter CS",
 			"SchemeDisplayColor": "red"
+		},
+		{
+			"schemeName": "Crimson CS",
+			"schemeUrl": "Crimson CS",
+			"SchemeDisplayColor": "red"
 		}
 	],
 	"availableFontSchemeUrls": [{
