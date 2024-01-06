@@ -41,6 +41,11 @@
 			"schemeName": "Crimson CS",
 			"schemeUrl": "Crimson CS",
 			"SchemeDisplayColor": "red"
+		},
+		{
+			"schemeName": "Default CS",
+			"schemeUrl": "Default CS",
+			"SchemeDisplayColor": "red"
 		}
 	],
 	"availableFontSchemeUrls": [{
