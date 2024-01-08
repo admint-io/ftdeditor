@@ -122,8 +122,8 @@
     dark: #b0aeac
 
     -- ftd.color cta-secondary-text-:
-    light: #333333
-    dark: #333333
+    light: #ffffff
+    dark: #ffffff
 
     -- ftd.color cta-secondary-text-disabled-:
     light: #304655
