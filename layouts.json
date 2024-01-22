@@ -46,6 +46,11 @@
 			"schemeName": "Default CS",
 			"schemeUrl": "Default CS",
 			"SchemeDisplayColor": "red"
+		},
+		{
+			"schemeName": "Royale CS",
+			"schemeUrl": "Royale CS",
+			"SchemeDisplayColor": "red"
 		}
 	],
 	"availableFontSchemeUrls": [{
