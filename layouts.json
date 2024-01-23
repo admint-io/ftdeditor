@@ -112,7 +112,13 @@
 			"schemeName": "Tiro",
 			"schemeUrl": "Tiro Typography",
 			"schemeFamily": "fastn-community-github-io-tiro-font-Tiro"
-		}
+		},
+		{
+			"schemeName": "Barlow",
+			"schemeUrl": "Barlow Typography",
+			"schemeFamily": "fharish-admint.github.io-barlow-font-Barlow"
+		},
+		
 	],
 	"featuredLayouts": [{
 			"name": "featured layout 1",
