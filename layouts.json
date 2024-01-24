@@ -124,11 +124,11 @@
 			"name": "featured layout 1",
 			"layout": "template-1",
 			"colorScheme": {
-				"schemeUrl": "Pink Tree CS"
+				"schemeUrl": "Crimson CS"
 			},
 			"fontScheme": {
-				"schemeUrl": "Blaka Typography",
-				"schemeFamily": "fastn-community-github-io-blaka-font-Blaka"
+				"schemeUrl": "Lato Typography",
+				"schemeFamily": "fastn-community-github-io-lato-font-Lato"
 			}
 		},
 		{
