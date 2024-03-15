@@ -2,18 +2,6 @@
 	"availableTemplates": [{
 			"templateName": "live-stream",
 			"layout": "live-stream"
-		},
-		{
-			"templateName": "blockmedia-hack",
-			"layout": "blockmedia-hack"
-		},
-		{
-			"templateName": "winter",
-			"layout": "winter"
-		},
-		{
-			"templateName": "holy-angel",
-			"layout": "holy-angel"
 		}
 	],
 	"availableColorSchemeUrls": [{
