@@ -1,290 +1,276 @@
--- ftd.type heading-hero-mobile:
-size.px: 48
-line-height.px: 64
-weight: 700
-font-family: $inter-assets.fonts.Inter
+-- import: gargajit.github.io/inter/assets as inter-assets
 
--- ftd.type heading-hero-desktop:
-size.px: 80
-line-height.px: 104
-weight: 700
-font-family: $inter-assets.fonts.Inter
+;; ⚠️fastn-builders::⚠️ before using this file please find and replace Inter
+;; with font name you have given inside 
+;; `gargajit.github.io/inter/FASTN.ftd file
 
--- ftd.responsive-type heading-hero:
-desktop: $heading-hero-desktop
-mobile: $heading-hero-mobile
 
--- ftd.type heading-large-mobile:
-size.px: 36
-line-height.px: 54
-weight: 700
-font-family: $inter-assets.fonts.Inter
 
--- ftd.type heading-large-desktop:
-size.px: 50
-line-height.px: 65
-weight: 700
-font-family: $inter-assets.fonts.Inter
 
--- ftd.responsive-type heading-large:
-desktop: $heading-large-desktop
-mobile: $heading-large-mobile
 
--- ftd.type heading-medium-mobile:
-size.px: 26
-line-height.px: 40
-weight: 700
-font-family: $inter-assets.fonts.Inter
 
--- ftd.type heading-medium-desktop:
-size.px: 38
-line-height.px: 57
-weight: 700
-font-family: $inter-assets.fonts.Inter
+-- site-doc.doc-home: FTD inter package
+site-title: `inter`
+show-tabs: false
+github-url: gargajit.github.io/inter
+current-package: gargajit.github.io/inter
 
--- ftd.responsive-type heading-medium:
-desktop: $heading-medium-desktop
-mobile: $heading-medium-mobile
+This FTD font `inter` package is for your ftd web projects. To Use this
+inter inside `FTD` project follow below instructions.
 
--- ftd.type heading-small-mobile:
-size.px: 22
-line-height.px: 29
-weight: 700
-font-family: $inter-assets.fonts.Inter
+-- site-doc.header: How to use inter?
 
--- ftd.type heading-small-desktop:
-line-height.px: 31
-size.px: 24
-weight: 700
-font-family: $inter-assets.fonts.Inter
+-- cb.code: Add this to your FASTN.ftd
+lang: ftd
 
--- ftd.responsive-type heading-small:
-desktop: $heading-small-desktop
-mobile: $heading-small-mobile
+\-- fastn.dependency: gargajit.github.io/inter
 
--- ftd.type heading-tiny-mobile:
-size.px: 18
-line-height.px: 24
-weight: 700
-font-family: $inter-assets.fonts.Inter
+-- site-doc.header: Next step:
 
--- ftd.type heading-tiny-desktop:
-size.px: 20
-line-height.px: 26
-weight: 700
-font-family: $inter-assets.fonts.Inter
+After adding inter dependency inside your `FASTN.ftd` file, You need to
+add inter assets and import it inside your `.ftd` files where you are
+using this font for your custom font types. 
 
--- ftd.responsive-type heading-tiny:
-desktop: $heading-tiny-desktop
-mobile: $heading-tiny-mobile
+To include inter into your `ftd` file follow below instructions.
 
--- ftd.type copy-large-mobile:
-size.px: 18
-line-height.px: 28
-weight: 400
-font-family: $inter-assets.fonts.Inter
+-- cb.code:
+lang: ftd
 
--- ftd.type copy-large-desktop:
-size.px: 22
-line-height.px: 34
-weight: 400
-font-family: $inter-assets.fonts.Inter
+\-- import: gargajit.github.io/inter/assets as inter-assets
 
--- ftd.responsive-type copy-large:
-desktop: $copy-large-desktop
-mobile: $copy-large-mobile
+-- site-doc.header: How to create a custom inter type? 
 
--- ftd.type copy-regular-mobile:
-size.px: 16
-line-height.px: 24
-weight: 400
-font-family: $inter-assets.fonts.Inter
+We don't recommend creating custom types. We recommend to use 
+our [inter-typography](https://gargajit.github.io/inter-typography)
 
--- ftd.type copy-regular-desktop:
-size.px: 18
-line-height.px: 30
-weight: 400
-font-family: $inter-assets.fonts.Inter
+If you're using [inter-typography](https://gargajit.github.io/inter-typography) 
+and still your designer has introduced new font size which are not included or 
+part of our [inter-typography](https://gargajit.github.io/inter-typography) 
+then only define custom types. 
 
--- ftd.responsive-type copy-regular:
-desktop: $copy-regular-desktop
-mobile: $copy-regular-mobile
+We hope you shouldn't need to define a custom type.
 
--- ftd.type copy-small-mobile:
+Below is an example of creating a custom `ftd.type` using inter.
+
+/-- cb.rendered: Demo:
+
+-- cb.rendered.input:
+
+\-- ftd.type inter-size-12-desktop:
 size.px: 12
-line-height.px: 16
 weight: 400
 font-family: $inter-assets.fonts.Inter
 
--- ftd.type copy-small-desktop:
-size.px: 14
-line-height.px: 24
-weight: 400
-font-family: $inter-assets.fonts.Inter
-
--- ftd.responsive-type copy-small:
-desktop: $copy-small-desktop
-mobile: $copy-small-mobile
-
--- ftd.type fine-print-mobile:
+\-- ftd.type inter-size-12-mobile:
 size.px: 12
-line-height.px: 16
 weight: 400
 font-family: $inter-assets.fonts.Inter
 
--- ftd.type fine-print-desktop:
+\-- ftd.responsive-type inter-size-12-400:
+desktop: $inter-size-12-desktop
+mobile: $inter-size-12-mobile
+
+\-- ftd.text: 
+role: $inter-size-12-400
+color: $inherited.colors.text-strong
+
+`font-size: 12px, font-weight: 400` 
+
+👉 The quick brown fox jumps over the lazy dog 
+
+-- cb.rendered.output:
+
+-- site-doc.output:
+colors: $ftd.default-colors
+
+-- ftd.text: 
+role: $inter-size-12-400
+color: $inherited.colors.text-strong
+
+`font-size: 12px, font-weight: 400` 
+
+👉 The quick brown fox jumps over the lazy dog 
+
+-- end: site-doc.output
+
+-- end: cb.rendered.output
+
+-- end: cb.rendered
+
+-- end: site-doc.doc-home
+
+
+
+
+
+
+
+
+
+
+-- ftd.type inter-size-12-desktop:
 size.px: 12
-line-height.px: 16
 weight: 400
 font-family: $inter-assets.fonts.Inter
 
--- ftd.responsive-type fine-print:
-desktop: $fine-print-desktop
-mobile: $fine-print-mobile
 
--- ftd.type blockquote-mobile:
-size.px: 16
-line-height.px: 21
+-- ftd.type inter-size-12-mobile:
+size.px: 12
 weight: 400
 font-family: $inter-assets.fonts.Inter
 
--- ftd.type blockquote-desktop:
-size.px: 16
-line-height.px: 21
-weight: 400
-font-family: $inter-assets.fonts.Inter
+-- ftd.responsive-type inter-size-12-400:
+desktop: $inter-size-12-desktop
+mobile: $inter-size-12-mobile
 
--- ftd.responsive-type blockquote:
-desktop: $blockquote-desktop
-mobile: $blockquote-mobile
 
--- ftd.type source-code-mobile:
-size.px: 16
-line-height.px: 21
-weight: 600
-font-family: $inter-assets.fonts.Inter
 
--- ftd.type source-code-desktop:
-size.px: 18
-line-height.px: 30
-weight: 600
-font-family: $inter-assets.fonts.Inter
 
--- ftd.responsive-type source-code:
-desktop: $source-code-desktop
-mobile: $source-code-mobile
 
--- ftd.type label-large-mobile:
-size.px: 14
-line-height.px: 19
-weight: 400
-font-family: $inter-assets.fonts.Inter
-
--- ftd.type label-large-desktop:
-size.px: 14
-line-height.px: 19
+-- ftd.type inter-size-12-500-desktop:
+size.px: 12
 weight: 500
 font-family: $inter-assets.fonts.Inter
 
--- ftd.responsive-type label-large:
-desktop: $label-large-desktop
-mobile: $label-large-mobile
 
--- ftd.type label-small-mobile:
+-- ftd.type inter-size-12-500-mobile:
 size.px: 12
-line-height.px: 16
+weight: 500
+font-family: $inter-assets.fonts.Inter
+
+-- ftd.responsive-type inter-size-12-500:
+desktop: $inter-size-12-500-desktop
+mobile: $inter-size-12-500-mobile
+
+
+
+
+
+-- ftd.type inter-size-12-800-desktop:
+size.px: 12
+weight: 800
+font-family: $inter-assets.fonts.Inter
+
+
+-- ftd.type inter-size-12-800-mobile:
+size.px: 12
+weight: 800
+font-family: $inter-assets.fonts.Inter
+
+-- ftd.responsive-type inter-size-12-800:
+desktop: $inter-size-12-800-desktop
+mobile: $inter-size-12-800-mobile
+
+
+
+
+
+-- ftd.type inter-size-18-desktop:
+size.px: 18
 weight: 400
 font-family: $inter-assets.fonts.Inter
 
--- ftd.type label-small-desktop:
-size.px: 12
-line-height.px: 16
+
+-- ftd.type inter-size-18-mobile:
+size.px: 18
 weight: 400
 font-family: $inter-assets.fonts.Inter
 
--- ftd.responsive-type label-small:
-desktop: $label-small-desktop
-mobile: $label-small-mobile
+-- ftd.responsive-type inter-size-18-400:
+desktop: $inter-size-18-desktop
+mobile: $inter-size-18-mobile
 
--- ftd.type button-large-mobile:
+
+
+
+
+-- ftd.type inter-size-18-500-desktop:
 size.px: 18
-line-height.px: 24
-weight: 700
+weight: 500
 font-family: $inter-assets.fonts.Inter
 
--- ftd.type button-large-desktop:
+
+-- ftd.type inter-size-18-500-mobile:
 size.px: 18
-line-height.px: 24
-weight: 700
+weight: 500
 font-family: $inter-assets.fonts.Inter
 
--- ftd.responsive-type button-large:
-desktop: $button-large-desktop
-mobile: $button-large-mobile
+-- ftd.responsive-type inter-size-18-500:
+desktop: $inter-size-18-500-desktop
+mobile: $inter-size-18-500-mobile
 
--- ftd.type button-medium-mobile:
-size.px: 16
-line-height.px: 21
-weight: 700
+
+
+
+
+-- ftd.type inter-size-18-800-desktop:
+size.px: 18
+weight: 800
 font-family: $inter-assets.fonts.Inter
 
--- ftd.type button-medium-desktop:
-size.px: 16
-line-height.px: 21
-weight: 700
+
+-- ftd.type inter-size-18-800-mobile:
+size.px: 18
+weight: 800
 font-family: $inter-assets.fonts.Inter
 
--- ftd.responsive-type button-medium:
-desktop: $button-medium-desktop
-mobile: $button-medium-mobile
+-- ftd.responsive-type inter-size-18-800:
+desktop: $inter-size-18-800-desktop
+mobile: $inter-size-18-800-mobile
 
--- ftd.type button-small-mobile:
-size.px: 14
-line-height.px: 19
-weight: 700
+
+
+
+
+-- ftd.type inter-size-48-desktop:
+size.px: 48
+weight: 400
 font-family: $inter-assets.fonts.Inter
 
--- ftd.type button-small-desktop:
-size.px: 14
-line-height.px: 19
-weight: 700
+
+-- ftd.type inter-size-48-mobile:
+size.px: 48
+weight: 400
 font-family: $inter-assets.fonts.Inter
 
--- ftd.responsive-type button-small:
-desktop: $button-small-desktop
-mobile: $button-small-mobile
+-- ftd.responsive-type inter-size-48-400:
+desktop: $inter-size-48-desktop
+mobile: $inter-size-48-mobile
 
--- ftd.type link-mobile:
-size.px: 14
-line-height.px: 19
-weight: 700
+
+
+
+
+-- ftd.type inter-size-48-500-desktop:
+size.px: 48
+weight: 500
 font-family: $inter-assets.fonts.Inter
 
--- ftd.type link-desktop:
-size.px: 14
-line-height.px: 19
-weight: 700
+
+-- ftd.type inter-size-48-500-mobile:
+size.px: 48
+weight: 500
 font-family: $inter-assets.fonts.Inter
 
--- ftd.responsive-type link:
-desktop: $link-desktop
-mobile: $link-mobile
+-- ftd.responsive-type inter-size-48-500:
+desktop: $inter-size-48-500-desktop
+mobile: $inter-size-48-500-mobile
 
--- ftd.type-data types:
-heading-hero: $heading-hero
-heading-large: $heading-large
-heading-medium: $heading-medium
-heading-small: $heading-small
-heading-tiny: $heading-tiny
-copy-large: $copy-large
-copy-regular: $copy-regular
-copy-small: $copy-small
-fine-print: $fine-print
-blockquote: $blockquote
-source-code: $source-code
-label-large: $label-large
-label-small: $label-small
-button-large: $button-large
-button-medium: $button-medium
-button-small: $button-small
-link: $link
+
+
+
+
+-- ftd.type inter-size-48-800-desktop:
+size.px: 48
+weight: 800
+font-family: $inter-assets.fonts.Inter
+
+
+-- ftd.type inter-size-48-800-mobile:
+size.px: 48
+weight: 800
+font-family: $inter-assets.fonts.Inter
+
+-- ftd.responsive-type inter-size-48-800:
+desktop: $inter-size-48-800-desktop
+mobile: $inter-size-48-800-mobile
