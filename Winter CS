@@ -1,7 +1,7 @@
 
     -- ftd.color base-:
     light: #ffffff
-    dark: #04293f
+    dark: #021826
 
     -- ftd.color step-1-:
     light: #bcdaf5
@@ -243,8 +243,8 @@
     dark: #0096eb
 
     -- ftd.color accent-secondary-:
-    light: #094367
-    dark: #04293f
+    light: #073263
+    dark: #073263
 
     -- ftd.color accent-tertiary-:
     light: #c5cbd7
