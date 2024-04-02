@@ -62,9 +62,9 @@
 		}
 	],
 	"availableFontSchemeUrls": [{
-			"schemeName": "Lobster",
-			"schemeUrl": "Lobster Typography",
-			"schemeFamily": "fastn-community-github-io-lobster-font-Lobster"
+			"schemeName": "Noto Sans",
+			"schemeUrl": "Noto Sans Typography",
+			"schemeFamily": "fharish-admint.github.io-noto-sans-font-Noto-Sans"
 		},
 		{
 			"schemeName": "Arya",
