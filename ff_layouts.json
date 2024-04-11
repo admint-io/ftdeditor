@@ -2,6 +2,14 @@
 	"availableTemplates": [{
 			"templateName": "live-stream",
 			"layout": "live-stream"
+		},
+		{
+			"templateName": "template-1",
+			"layout": "template-1"
+		},
+		{
+			"templateName": "template-2",
+			"layout": "template-2"
 		}
 	],
 	"availableColorSchemeUrls": [{
