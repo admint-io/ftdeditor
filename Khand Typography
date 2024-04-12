@@ -1,3 +1,4 @@
+-- import: fastn-community.github.io/khand-font/assets as khand-assets
 
 -- ftd.type heading-hero-mobile:
 line-height.px: 60
