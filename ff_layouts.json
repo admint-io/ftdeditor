@@ -38,72 +38,89 @@
 			"SchemeDisplayColor": "red"
 		},
 		{
-			"schemeName": "Demo CS",
-			"schemeUrl": "Demo CS",
+			"schemeName": "Crimson CS",
+			"schemeUrl": "Crimson CS",
+			"SchemeDisplayColor": "red"
+		},
+		{
+			"schemeName": "Default CS",
+			"schemeUrl": "Default CS",
+			"SchemeDisplayColor": "red"
+		},
+		{
+			"schemeName": "Royale CS",
+			"schemeUrl": "Royale CS",
 			"SchemeDisplayColor": "red"
 		}
 	],
 	"availableFontSchemeUrls": [{
-			"schemeName": "Lobster Typography",
-			"schemeUrl": "Lobster Typography",
-			"schemeFamily": "fastn-community-github-io-lobster-font-Lobster"
+			"schemeName": "Noto Sans",
+			"schemeUrl": "Noto Sans Typography",
+			"schemeFamily": "fharish-admint.github.io-noto-sans-font-Noto-Sans"
 		},
 		{
-			"schemeName": "Arya Typography",
+			"schemeName": "Arya",
 			"schemeUrl": "Arya Typography",
 			"schemeFamily": "fastn-community-github-io-arya-font-Arya"
 		},
 		{
-			"schemeName": "Blaka Typography",
-			"schemeUrl": "Blaka Typography",
-			"schemeFamily": "fastn-community-github-io-blaka-font-Blaka"
+			"schemeName": "Poppins",
+			"schemeUrl": "Poppins Typography",
+			"schemeFamily": "harish-admint.github.io-poppins-font-Poppins"
 		},
 		{
-			"schemeName": "Inter Typography",
+			"schemeName": "Inter",
 			"schemeUrl": "Inter Typography",
 			"schemeFamily": "fastn-community-github-io-inter-font-Inter"
 		},
 		{
-			"schemeName": "Karma Typography",
+			"schemeName": "Karma",
 			"schemeUrl": "Karma Typography",
 			"schemeFamily": "fastn-community-github-io-karma-font-Karma"
 		},
 		{
-			"schemeName": "Khand Typography",
+			"schemeName": "Khand",
 			"schemeUrl": "Khand Typography",
 			"schemeFamily": "fastn-community-github-io-khand-font-Khand"
 		},
 		{
-			"schemeName": "Lato Typography",
+			"schemeName": "Lato",
 			"schemeUrl": "Lato Typography",
 			"schemeFamily": "fastn-community-github-io-lato-font-Lato"
 		},
 		{
-			"schemeName": "Opensans Typography",
+			"schemeName": "Opensans",
 			"schemeUrl": "Opensans Typography",
 			"schemeFamily": "fastn-community-github-io-opensans-font-Opensans"
 		},
 		{
-			"schemeName": "Pragati Narrow Typography",
+			"schemeName": "Pragati Narrow",
 			"schemeUrl": "Pragati Narrow Typography",
 			"schemeFamily": "fastn-community-github-io-pragati-narrow-font-Pragati-Narrow"
 		},
 		{
-			"schemeName": "Roboto Mono Typography",
+			"schemeName": "Roboto Mono",
 			"schemeUrl": "Roboto Mono Typography",
 			"schemeFamily": "fastn-community-github-io-roboto-mono-font-Roboto-Mono"
 		},
 		{
-			"schemeName": "Roboto Typography",
+			"schemeName": "Roboto",
 			"schemeUrl": "Roboto Typography",
 			"schemeFamily": "fastn-community-github-io-roboto-font-Roboto"
 		},
 		{
-			"schemeName": "Tiro Typography",
+			"schemeName": "Tiro",
 			"schemeUrl": "Tiro Typography",
 			"schemeFamily": "fastn-community-github-io-tiro-font-Tiro"
+		},
+		{
+			"schemeName": "Barlow",
+			"schemeUrl": "Barlow Typography",
+			"schemeFamily": "harish-admint.github.io-barlow-font-Barlow"
 		}
+		
 	],
+	
 	"featuredLayouts": [{
 			"name": "featured layout 1",
 			"layout": "live-stream",
