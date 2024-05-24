@@ -2,7 +2,7 @@
     ;;change this to change bg color------------------------------------------
     -- ftd.color base-:
     light: #f3f3f3
-    dark: #c2071a
+    dark: #300000
 
     -- ftd.color step-1-:
     light: #fdfaf1
@@ -42,10 +42,10 @@
     light: #5F5F5F
     dark: #d0d0d0
 
- ;;change this to edit common main text in the page -------------------------
+ ;;change this to edit strong headling large text in the page -------------------------
     -- ftd.color text-strong-:
     light: #000000
-    dark: #000000
+    dark: #c2071a
 
     -- ftd.color shadow-:
     light: #ef8435
