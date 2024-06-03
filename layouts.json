@@ -59,6 +59,11 @@
 			"schemeName": "Royale CS",
 			"schemeUrl": "Royale CS",
 			"SchemeDisplayColor": "red"
+		},
+		{
+			"schemeName": "Grey Steel CS",
+			"schemeUrl": "Grey Steel CS",
+			"SchemeDisplayColor": "grey"
 		}
 	],
 	"availableFontSchemeUrls": [{
