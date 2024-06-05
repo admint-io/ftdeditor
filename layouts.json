@@ -64,6 +64,11 @@
 			"schemeName": "Grey Steel CS",
 			"schemeUrl": "Grey Steel CS",
 			"SchemeDisplayColor": "grey"
+		},
+		{
+			"schemeName": "Indigo CS",
+			"schemeUrl": "Indigo CS",
+			"SchemeDisplayColor": "blue"
 		}
 	],
 	"availableFontSchemeUrls": [{
