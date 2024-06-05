@@ -26,8 +26,8 @@
 			"SchemeDisplayColor": "red"
 		},
 		{
-			"schemeName": "Blog Template 1 CS",
-			"schemeUrl": "Blog Template 1 CS",
+			"schemeName": "Ember CS",
+			"schemeUrl": "Ember CS",
 			"SchemeDisplayColor": "red"
 		},
 		{
@@ -51,9 +51,9 @@
 			"SchemeDisplayColor": "red"
 		},
 		{
-			"schemeName": "Default CS",
-			"schemeUrl": "Default CS",
-			"SchemeDisplayColor": "red"
+			"schemeName": "Purple Haze CS",
+			"schemeUrl": "Purple Haze CS",
+			"SchemeDisplayColor": "purple"
 		},
 		{
 			"schemeName": "Royale CS",
