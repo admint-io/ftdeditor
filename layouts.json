@@ -135,6 +135,11 @@
 			"schemeName": "Barlow",
 			"schemeUrl": "Barlow Typography",
 			"schemeFamily": "harish-admint.github.io-barlow-font-Barlow"
+		},
+		{
+			"schemeName": "Montserrat",
+			"schemeUrl": "Montserrat Typography",
+			"schemeFamily": "harish-admint.github.io-montserrat-font-Montserrat"
 		}
 		
 	],
