@@ -4,6 +4,10 @@
 			"layout": "live-stream"
 		},
 		{
+			"templateName": "e-commerce",
+			"layout": "e-commerce"
+		},
+		{
 			"templateName": "template-1",
 			"layout": "template-1"
 		},
