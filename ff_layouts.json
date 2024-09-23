@@ -22,8 +22,8 @@
 			"SchemeDisplayColor": "red"
 		},
 		{
-			"schemeName": "Blog Template 1 CS",
-			"schemeUrl": "Blog Template 1 CS",
+			"schemeName": "Ember CS",
+			"schemeUrl": "Ember CS",
 			"SchemeDisplayColor": "red"
 		},
 		{
@@ -47,20 +47,30 @@
 			"SchemeDisplayColor": "red"
 		},
 		{
-			"schemeName": "Default CS",
-			"schemeUrl": "Default CS",
-			"SchemeDisplayColor": "red"
+			"schemeName": "Purple Haze CS",
+			"schemeUrl": "Purple Haze CS",
+			"SchemeDisplayColor": "purple"
 		},
 		{
 			"schemeName": "Royale CS",
 			"schemeUrl": "Royale CS",
 			"SchemeDisplayColor": "red"
+		},
+		{
+			"schemeName": "Grey Steel CS",
+			"schemeUrl": "Grey Steel CS",
+			"SchemeDisplayColor": "grey"
+		},
+		{
+			"schemeName": "Indigo CS",
+			"schemeUrl": "Indigo CS",
+			"SchemeDisplayColor": "blue"
 		}
 	],
 	"availableFontSchemeUrls": [{
 			"schemeName": "Noto Sans",
 			"schemeUrl": "Noto Sans Typography",
-			"schemeFamily": "fharish-admint.github.io-noto-sans-font-Noto-Sans"
+			"schemeFamily": "harish-admint.github.io-notosans-font-Noto-Sans"
 		},
 		{
 			"schemeName": "Arya",
@@ -121,6 +131,11 @@
 			"schemeName": "Barlow",
 			"schemeUrl": "Barlow Typography",
 			"schemeFamily": "harish-admint.github.io-barlow-font-Barlow"
+		},
+		{
+			"schemeName": "Montserrat",
+			"schemeUrl": "Montserrat Typography",
+			"schemeFamily": "harish-admint.github.io-montserrat-font-Montserrat"
 		}
 		
 	],
