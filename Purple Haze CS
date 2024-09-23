@@ -1,5 +1,6 @@
--- ftd.color base-:
-light: #00011d
+;;change this to change bg color------------------------------------------
+-- ftd.color base-:  
+light: #eaeaea
 dark: #00011d
 
 -- ftd.color step-1-:
@@ -10,6 +11,7 @@ dark: #191D30
 light: #141516
 dark: #FFFFFF
 
+;;change this to change popup overlay --------------------------------------
 -- ftd.color overlay-:
 light: rgba(0, 0, 0, 0.8)
 dark: rgba(0, 0, 0, 0.8)
@@ -25,21 +27,24 @@ step-2: $step-2-
 overlay: $overlay-
 code: $code-
 
+;;change this to change FAQ line color-------------------------------------
 -- ftd.color border-:
-light: #b2b3bb
-dark: #b2b3bb
+light: #6f59e9
+dark: #6f59e9
 
 -- ftd.color border-strong-:
 light: #362FD9
 dark: #362FD9
 
+ ;;change this to edit common main text in the page -------------------------
 -- ftd.color text-:
-light: #ffffff
-dark: #ffffff
+light: #120461
+dark: #EAD0DF
 
+;;change this to edit strong text in the page -------------------------
 -- ftd.color text-strong-:
-light: #141516
-dark: #ffffff
+light: #0b1e5c
+dark: #886cff
 
 -- ftd.color shadow-:
 light: #007f9b
@@ -53,9 +58,10 @@ dark: #007f9b
 light: #362FD9
 dark: #362FD9
 
+;;change this to edit navbar on hover color in the page --------------------
 -- ftd.color cta-primary-hover-:
 light: #362FD9
-dark: #362FD9
+dark: #8582d1
 
 -- ftd.color cta-primary-pressed-:
 light: #2cc9b5
@@ -69,13 +75,15 @@ dark: rgba(44, 201, 181, 0.1)
 light: #2cbfac
 dark: #2cbfac
 
+;;change this to edit the border of the button in the page -----------------
 -- ftd.color cta-primary-border-:
 light: #362FD9
 dark: #362FD9
 
+;;change this to edit navbar link color in the page -------------------------
 -- ftd.color cta-primary-text-:
-light: #feffff
-dark: #feffff
+light: #C3409C
+dark: #C3409C
 
 -- ftd.color cta-primary-text-disabled-:
 light: #50b968eb
@@ -120,8 +128,9 @@ dark: #4fb1df
 light: #362FD9
 dark: #362FD9
 
+;;change to edit notification bar / button hover color in the page ----------
 -- ftd.color cta-secondary-text-:
-light: #362FD9
+light: #ffffff
 dark: #ffffff
 
 -- ftd.color cta-secondary-text-disabled-:
@@ -237,10 +246,13 @@ text: $cta-danger-text-
 text-disabled: $cta-danger-text-disabled-
 border-disabled: $cta-danger-border-disabled-
 
+
+;;change to edit notification bar primary color  in the page ----------------
 -- ftd.color accent-primary-:
 light: #D12EEF
 dark: #D12EEF
 
+;;change to edit notification bar secondary color in the page ---------------
 -- ftd.color accent-secondary-:
 light: #6F59E9
 dark: #6F59E9
