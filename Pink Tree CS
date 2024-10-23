@@ -1,7 +1,7 @@
 
     ;;change this to change bg color------------------------------------------
     -- ftd.color base-:     
-    light: #000000
+    light: #FFFFFF
     dark: #260736
 
     -- ftd.color step-1-:
