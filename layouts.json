@@ -140,6 +140,11 @@
 			"schemeName": "Montserrat",
 			"schemeUrl": "Montserrat Typography",
 			"schemeFamily": "harish-admint.github.io-montserrat-font-Montserrat"
+		},
+		{
+			"schemeName": "Raleway",
+			"schemeUrl": "Raleway Typography",
+			"schemeFamily": "midhundas509.github.io/raleway-font-Raleway"
 		}
 		
 	],
