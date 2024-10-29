@@ -145,6 +145,11 @@
 			"schemeName": "Merriweather Sans",
 			"schemeUrl": "Merriweather Sans Typography",
 			"schemeFamily": "midhundas509.github.io/merriweathersans-font-Merriweather-Sans"
+		},
+		{
+			"schemeName": "Oswald",
+			"schemeUrl": "Oswald Typography",
+			"schemeFamily": "harish-admint.github.io/oswald-font-Oswald"
 		}
 		
 	],
