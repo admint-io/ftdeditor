@@ -1,8 +1,4 @@
 
-    //-- ftd.color base-:
-    light: #F7F9FC
-    dark: #1A1A2E
-
     -- ftd.color base-:
     light: #F7F9FC
     dark: #1A1A2E
