@@ -65,6 +65,11 @@
 			"schemeName": "Indigo CS",
 			"schemeUrl": "Indigo CS",
 			"SchemeDisplayColor": "blue"
+		},
+		{
+			"schemeName": "Test CS",
+			"schemeUrl": "Test CS",
+			"SchemeDisplayColor": "blue"
 		}
 	],
 	"availableFontSchemeUrls": [{
