@@ -28,20 +28,20 @@
     code: $code-
 
     -- ftd.color border-:
-    light: 	#D4D9E1
-    dark: 	#343A40
+    light: #D4D9E1
+    dark: #343A40
 
     -- ftd.color border-strong-:
     light: #BCC3CC
-    dark: 	#4A4A4A
+    dark: #4A4A4A
 
     -- ftd.color text-:
-    light: 	#3A3D43
-    dark: #E1E1E1
+    light: #E1E1E1
+    dark: #FFFFFF
 
     -- ftd.color text-strong-:
-    light: 	#1E2024
-    dark: 	#FFFFFF
+    light: #1E2024
+    dark: #FFFFFF
 
     -- ftd.color shadow-:
     light: rgba(58, 61, 67, 0.15)
