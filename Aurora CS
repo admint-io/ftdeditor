@@ -1,23 +1,23 @@
 
     -- ftd.color base-:
-    light: #e5e6e2
-    dark: #1F2F1F
+    light: #F5F7FA
+    dark: #121212
 
     -- ftd.color step-1-:
-    light: #293434
-    dark: #182517
+    light: #EDEFF3
+    dark: #1F1F1F
 
     -- ftd.color step-2-:
-    light: #7c9e9d
-    dark: #233221
+    light: #D9DEE6
+    dark: #2C2C2C
 
     -- ftd.color overlay-:
-    light: rgba(0, 0, 0, 0.8)
-    dark: rgba(0, 0, 0, 0.8)
+    light: rgba(0, 0, 0, 0.7)
+    dark: rgba(255, 255, 255, 0.85)
 
     -- ftd.color code-:
-    light: #eaeaea
-    dark: #2b303b
+    light: #F9F9FB
+    dark: #2A2A2A
 
     -- ftd.background-colors background-:
     base: $base-
