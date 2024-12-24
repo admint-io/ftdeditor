@@ -75,6 +75,11 @@
 			"schemeName": "Aurora CS",
 			"schemeUrl": "Aurora CS",
 			"SchemeDisplayColor": "blue"
+		},
+		{
+			"schemeName": "Eclipse CS",
+			"schemeUrl": "Eclipse CS",
+			"SchemeDisplayColor": "blue"
 		}
 	],
 	"availableFontSchemeUrls": [{
