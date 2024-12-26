@@ -86,8 +86,8 @@
 
  ;;change this to edit navbar link color in the page -------------------------
     -- ftd.color cta-primary-text-:
-    light: #FFFFFF
-    dark: #121212
+    light:rgb(218, 73, 102)
+    dark: #FF0090
 
     -- ftd.color cta-primary-text-disabled-:
     light: #65b693
@@ -135,8 +135,8 @@
 
  ;;change to edit notification bar / button hover color in the page ----------
     -- ftd.color cta-secondary-text-:
-    light: #FFFFFF
-    dark: #121212
+    light: #121212
+    dark: #FFFFFF
 
     -- ftd.color cta-secondary-text-disabled-:
     light: #65b693
@@ -261,7 +261,7 @@
     -- ftd.color accent-secondary-:
     light: #E11D48
     dark: #F43F5E
---------------------------------------------------------------end-------------------------------------------
+
     -- ftd.color accent-tertiary-:
     light: #F59E0B
     dark: #FBBF24
