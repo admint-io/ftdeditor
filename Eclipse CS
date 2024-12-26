@@ -1,25 +1,25 @@
 
     ;;change this to change bg color------------------------------------------
     -- ftd.color base-:     
-    light: #F7F9FC
-    dark: #F7F9FC
+    light: 	#F2F4F7
+    dark: 	#1A1A1A
 
     -- ftd.color step-1-:
-    light: #E8EDF3
-    dark: #1A1A1A
+    light: 	#E4E7EC
+    dark: #212121
 
     -- ftd.color step-2-:
-    light: #DDE4EB
-    dark: #242424
+    light: 	#D6DAE0
+    dark: #2A2A2A
 
   ;;change this to change popup overlay --------------------------------------
     -- ftd.color overlay-:
-    light: rgba(0, 0, 0, 0.5)
-    dark: rgba(255, 255, 255, 0.5)
+    light: 	rgba(0, 0, 0, 0.6)
+    dark: rgba(255, 255, 255, 0.2)
 
     -- ftd.color code-:
-    light: #F3F4F6
-    dark: #1E1E1E
+    light: 	#F6F8FB
+    dark: 	#1E1E1E
 
     -- ftd.background-colors background-:
     base: $base-
@@ -39,22 +39,22 @@
 
   ;;change this to edit common main text in the page -------------------------
     -- ftd.color text-:
-    light: #222831
-    dark: #ECECEC
+    light: 	#1A202C
+    dark: 	#EAEAEA
 
 
   ;;change this to edit common main text in the page -------------------------
     -- ftd.color text-strong-:
-    light: #0D1117
+    light: #111827
     dark: #FFFFFF
 
     -- ftd.color shadow-:
-    light: rgba(0, 0, 0, 0.1)
+    light: 	rgba(0, 0, 0, 0.08)
     dark: rgba(0, 0, 0, 0.4)
 
     -- ftd.color scrim-:
     light: rgba(0, 0, 0, 0.2)
-    dark: rgba(255, 255, 255, 0.2)
+    dark: rgba(255, 255, 255, 0.1)
 
     -- ftd.color cta-primary-base-:
     light: #3B82F6
