@@ -1,25 +1,24 @@
 
-    ;;change this to change bg color------------------------------------------
-    -- ftd.color base-:     
-    light: 	#F2F4F7
-    dark: 	#1A1A1A
+    -- ftd.color base-:
+    light:rgb(206, 219, 240)
+    dark:rgb(19, 6, 46)
+
 
     -- ftd.color step-1-:
-    light: 	#E4E7EC
-    dark: #212121
+    light: #EDEFF3
+    dark: #1F1F1F
 
     -- ftd.color step-2-:
-    light: 	#D6DAE0
-    dark: #2A2A2A
+    light: #D9DEE6
+    dark: #2C2C2C
 
-  ;;change this to change popup overlay --------------------------------------
     -- ftd.color overlay-:
-    light: 	rgba(0, 0, 0, 0.6)
-    dark: rgba(255, 255, 255, 0.2)
+    light: rgba(0, 0, 0, 0.7)
+    dark: rgba(255, 255, 255, 0.85)
 
     -- ftd.color code-:
-    light: 	#F6F8FB
-    dark: 	#1E1E1E
+    light: #F9F9FB
+    dark: #2A2A2A
 
     -- ftd.background-colors background-:
     base: $base-
@@ -27,75 +26,66 @@
     step-2: $step-2-
     overlay: $overlay-
     code: $code-
- 
-  ;;change this to change FAQ line color-------------------------------------
+
     -- ftd.color border-:
-    light: #CBD2D9
-    dark: #333333
+    light: #D4D9E1
+    dark: #343A40
 
     -- ftd.color border-strong-:
-    light: #A1AEBF
-    dark: #444444
+    light: #BCC3CC
+    dark: #4A4A4A
 
-  ;;change this to edit common main text in the page -------------------------
     -- ftd.color text-:
-    light: 	#1A202C
-    dark: 	#EAEAEA
+    light: black
+    dark: white
 
-
-  ;;change this to edit common main text in the page -------------------------
     -- ftd.color text-strong-:
-    light: #111827
+    light: #1E2024
     dark: #FFFFFF
 
     -- ftd.color shadow-:
-    light: 	rgba(0, 0, 0, 0.08)
+    light: rgba(58, 61, 67, 0.15)
     dark: rgba(0, 0, 0, 0.4)
 
     -- ftd.color scrim-:
-    light: rgba(0, 0, 0, 0.2)
-    dark: rgba(255, 255, 255, 0.1)
+    light: rgba(0, 0, 0, 0.25)
+    dark: 	rgba(255, 255, 255, 0.25)
 
     -- ftd.color cta-primary-base-:
-    light: #3B82F6
-    dark: #2563EB
+    light:rgb(51, 67, 216)
+    dark: 	#4C9DFF
 
-
-  ;;change this to edit navbar on hover color in the page --------------------
     -- ftd.color cta-primary-hover-:
-    light: #2563EB
-    dark: #1D4ED8
+    light: #1D4ED8
+    dark: 	#398BFF
 
     -- ftd.color cta-primary-pressed-:
-    light: #1D4ED8
-    dark: #153DAB
+    light: #1742A1
+    dark: 	#2671CC
 
     -- ftd.color cta-primary-disabled-:
-    light: #A5C4F8
-    dark: #3E638C
+    light: 	#9BB5E0
+    dark: 	#60799F
 
     -- ftd.color cta-primary-focused-:
-    light: #0036A1
-    dark: #0041CC
+    light: #00359B
+    dark: #005ACD
 
-    
-  ;;change this to edit the border of the button in the page -----------------
     -- ftd.color cta-primary-border-:
-    light: #3B82F6
-    dark: #5C9EF8
+    light: 	#4673E1
+    dark: #5CA8FF
 
- ;;change this to edit navbar link color in the page -------------------------
     -- ftd.color cta-primary-text-:
-    light:rgb(218, 73, 102)
-    dark: #FF0090
+    light:rgb(239, 48, 130)
+    dark:rgb(239, 48, 130)
 
     -- ftd.color cta-primary-text-disabled-:
-    light: #65b693
-    dark: #65b693
+    light: #50b968eb
+    dark: #50b968eb
 
     -- ftd.color cta-primary-border-disabled-:
-    light: #65b693
-    dark: #65b693
+    light: #6dd59569
+    dark: #6dd59569
 
     -- ftd.cta-colors cta-primary-:
     base: $cta-primary-base-
@@ -109,42 +99,40 @@
     border-disabled: $cta-primary-border-disabled-
 
     -- ftd.color cta-secondary-base-:
-    light: #EF4444
-    dark: #F87171
+    light: 	#F97316
+    dark: #FF8745
 
     -- ftd.color cta-secondary-hover-:
-    light: #DC2626
-    dark: #E63939
+    light: #EA580C
+    dark: 	#E96A25
 
     -- ftd.color cta-secondary-pressed-:
-    light: #B91C1C
-    dark: #CC1E1E
+    light: 	#C2410C
+    dark: #BF5300
 
     -- ftd.color cta-secondary-disabled-:
-    light: #FAD6D6
-    dark: #7A4B4B
+    light: #FBC7A2
+    dark: #806344
 
     -- ftd.color cta-secondary-focused-:
-    light: 	#991B1B
-    dark: #B72222
+    light: #A63D09
+    dark: #993900
 
     -- ftd.color cta-secondary-border-:
-    light: #F75555
-    dark: #FF7070
+    light: #F99954
+    dark: 	#FFB07B
 
-
- ;;change to edit notification bar / button hover color in the page ----------
     -- ftd.color cta-secondary-text-:
-    light: #121212
-    dark: #FFFFFF
+    light: #FFFFFF
+    dark: #1E2024
 
     -- ftd.color cta-secondary-text-disabled-:
-    light: #65b693
-    dark: #65b693
+    light: #feffff
+    dark: #feffff
 
     -- ftd.color cta-secondary-border-disabled-:
-    light: #65b693
-    dark: #65b693
+    light: #2b8074
+    dark: #2b8074
 
     -- ftd.cta-colors cta-secondary-:
     base: $cta-secondary-base-
@@ -158,40 +146,40 @@
     border-disabled: $cta-secondary-border-disabled-
 
     -- ftd.color cta-tertiary-base-:
-    light: #10B981
-    dark: #34D399
+    light: 	#22C55E
+    dark: 	#32D774
 
     -- ftd.color cta-tertiary-hover-:
-    light: #059669
-    dark: #16A34A
+    light: #16A34A
+    dark: 	#28B366
 
     -- ftd.color cta-tertiary-pressed-:
-    light: #047857
-    dark: #0D6E41
+    light: 	#15803D
+    dark: #1F994F
 
     -- ftd.color cta-tertiary-disabled-:
-    light: #AAF4C2
-    dark: #4F8861
+    light: 	#A9E5C1
+    dark: #537C62
 
     -- ftd.color cta-tertiary-focused-:
-    light: #026B48
-    dark: #0B894C
+    light: #127437
+    dark: #1C8551
 
     -- ftd.color cta-tertiary-border-:
-    light: #0B894C
-    dark: #45E0A5
+    light: 	#34D164
+    dark: #4DE076
 
     -- ftd.color cta-tertiary-text-:
     light: #FFFFFF
-    dark: #121212
+    dark: 	#1E2024
 
     -- ftd.color cta-tertiary-text-disabled-:
-    light: #65b693
-    dark: #65b693
+    light: #feffff
+    dark: #feffff
 
     -- ftd.color cta-tertiary-border-disabled-:
-    light: #65b693
-    dark: #65b693
+    light: #2b8074
+    dark: #2b8074
 
     -- ftd.cta-colors cta-tertiary-:
     base: $cta-tertiary-base-
@@ -233,12 +221,12 @@
     dark: #1c1b1f
 
     -- ftd.color cta-danger-text-disabled-:
-    light: #65b693
-    dark: #65b693
+    light: #feffff
+    dark: #feffff
 
     -- ftd.color cta-danger-border-disabled-:
-    light: #65b693
-    dark: #65b693
+    light: #2b8074
+    dark: #2b8074
 
     -- ftd.cta-colors cta-danger-:
     base: $cta-danger-base-
@@ -251,20 +239,17 @@
     text-disabled: $cta-danger-text-disabled-
     border-disabled: $cta-danger-border-disabled-
 
- ;;change to edit notification bar primary color  in the page ----------------
     -- ftd.color accent-primary-:
-    light: #7C3AED
-    dark: #9B5DEF
+    light:rgb(111, 37, 207)
+    dark: rgb(111, 37, 207)
 
-
- ;;change to edit notification bar secondary color in the page ---------------
     -- ftd.color accent-secondary-:
-    light: #E11D48
-    dark: #F43F5E
+    light:rgb(228, 55, 55)
+    dark: rgb(228, 55, 55)
 
     -- ftd.color accent-tertiary-:
-    light: #F59E0B
-    dark: #FBBF24
+    light: #FACC15
+    dark: #FFD838
 
     -- ftd.pst accent-:
     primary: $accent-primary-
@@ -289,8 +274,8 @@
     border: $error-border-
 
     -- ftd.color success-base-:
-    light: #DCFCE7
-    dark: #DCFCE7
+    light: #D1FAE5
+    dark: #D1FAE5
 
     -- ftd.color success-text-:
     light: #047857
@@ -306,8 +291,8 @@
     border: $success-border-
 
     -- ftd.color info-base-:
-    light: #DBEAFE 
-    dark: #DBEAFE 
+    light: #DBEAFE
+    dark: #DBEAFE
 
     -- ftd.color info-text-:
     light: #1D4ED8
@@ -340,24 +325,24 @@
     border: $warning-border-
 
     -- ftd.color custom-one-:
-    light: #38BDF8
-    dark: #62D9FF
+    light: #ed753a
+    dark: #ed753a
 
     -- ftd.color custom-two-:
-    light: #8B5CF6
-    dark: #A072FF
+    light: #f3db5f
+    dark: #f3db5f
 
     -- ftd.color custom-three-:
-    light: #F472B6
-    dark: #FA89C6
+    light: #8fdcf8
+    dark: #8fdcf8
 
     -- ftd.color custom-four-:
-    light: #4B5563
-    dark: #6B7380
+    light: #7a65c7
+    dark: #7a65c7
 
     -- ftd.color custom-five-:
-    light: #FBBF24
-    dark: #FFD866
+    light: #eb57be
+    dark: #eb57be
 
     -- ftd.color custom-six-:
     light: #ef8dd6
