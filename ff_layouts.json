@@ -151,6 +151,26 @@
 			"schemeName": "Montserrat",
 			"schemeUrl": "Montserrat Typography",
 			"schemeFamily": "harish-admint.github.io-montserrat-font-Montserrat"
+		},
+		{
+			"schemeName": "Asap-Condensed",
+			"schemeUrl": "Asap Condensed Typography",
+			"schemeFamily": "midhundas509.github.io/asap-condensed-font-Asap-Condensed"
+		},
+		{
+			"schemeName": "Merriweather-Sans",
+			"schemeUrl": "Merriweather Sans Typography",
+			"schemeFamily": "midhundas509.github.io/merriweathersans-font-Merriweather-Sans"
+		},
+		{
+			"schemeName": "Playfair-Display",
+			"schemeUrl": "Playfair Typography",
+			"schemeFamily": "midhundas509.github.io/playfair-font-Playfair-Display"
+		},
+		{
+			"schemeName": "Raleway",
+			"schemeUrl": "Raleway Typography",
+			"schemeFamily": "midhundas509.github.io/raleway-font-Raleway"
 		}
 		
 	],
